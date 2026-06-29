@@ -1,0 +1,2 @@
+# Enterprise-Data-Pipeline-Hub-Predictive-Analytics-via-SQL-Python-Power-BI
+Centralized portfolio showcasing end-to-end data pipelines and machine learning solutions across domains. Features two production-grade projects: a customer churn prediction pipeline using MySQL, Python, and ELI5 explainability, plus a healthcare optimization framework with a balanced Decision Tree model and interactive Power BI dashboards.
