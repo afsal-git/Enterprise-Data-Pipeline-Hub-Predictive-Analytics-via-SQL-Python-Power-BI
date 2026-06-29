@@ -8,20 +8,24 @@ These projects demonstrate complete analytics pipelines—from raw data ingestio
 
 # 📂 Repository Structure
 
+## 📂 Repository Structure
+
 ```text
 Enterprise-Data-Pipeline-Hub/
 │
-├── Project-1-Telecom-Churn-Pipeline/
-│   ├── data/
-│   ├── sql_scripts/          # Staging tables & Star Schema
-│   ├── notebooks/            # Data preprocessing & Random Forest model
-│   └── docs/                 # Executive report
+├── Healthcare Appointment No-Show Prediction/
+│   ├── Dashboard/                 # Power BI Dashboard (.pbix)
+│   ├── Healthcare Appointment No-Show data/   # Dataset
+│   ├── Images/                    # Dashboard screenshots
+│   ├── Python Notebook/           # Data preprocessing & Decision Tree model
+│   └── Report/                    # Project report
 │
-└── Project-2-Healthcare-NoShow-BI/
-    ├── data/
-    ├── src/                  # Data preprocessing & Decision Tree model
-    ├── dashboard/            # Power BI (.pbix)
-    └── docs/                 # Executive report
+└── telecom-customer-churn-analytics/
+    ├── Data/                      # Raw dataset
+    ├── Images/                    # Project screenshots
+    ├── Python Notebook/           # Data preprocessing & Random Forest model
+    ├── Report/                    # Project report
+    └── SQL File/                  # Staging tables & Star Schema scripts
 ```
 
 ---
